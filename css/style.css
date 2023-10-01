@@ -1,0 +1,28 @@
+/* comment */
+ .text { 
+	color: red;
+}
+
+
+.regle.explication {
+	color:blue;
+}
+
+#top {
+	color: yellow;
+}
+
+.premiere-partie p {
+	color: rgb(51, 255, 0);
+}
+.premiere-partie > p {
+	color: rgb(11, 236, 236);
+}
+.premiere-partie ~ p {
+	color: rgb(255, 192, 231);
+}
+
+.premiere-partie + p {
+	color: gold;
+}
+ */
